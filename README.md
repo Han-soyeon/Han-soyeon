@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=400&text=Hello%20%Soyeon%20Github!&animation=twinkling" />
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" />
+</div>
+
 <!--
 **Han-soyeon/Han-soyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
