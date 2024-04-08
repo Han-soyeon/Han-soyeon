@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=400&text=Hello%20%Soyeon%20Github!&animation=twinkling" />
   <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" />
+  <img src="https://git.io/typing-svg" />
 </div>
 
 <!--
