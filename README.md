@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **Han-soyeon/Han-soyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
