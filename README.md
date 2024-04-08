@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=400&text=Hello%20%Soyeon%20Github!&animation=twinkling" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F71DDC&random=false&width=250&lines=Welcome+to+Soyeon%E2%80%99s+daily+study." alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello%20%Soyeon%20Github!&animation=twinkling" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F71DDC&random=false&lines=Welcome+to+Soyeon%E2%80%99s+daily+study." alt="Typing SVG" /></a>
 </div>
 
 <!--
