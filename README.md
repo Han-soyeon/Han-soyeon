@@ -70,23 +70,6 @@
 | **완산고등학교 강의**     | 2022.06.02       | IT 동아리를 대상 Git/GitHub 사용법 및 버전 관리 교육 (7명)                   |
 | **미국 해외연수**           | 2015.01 ~ 2015.02 | Bloomfield College에서 어학 프로그램 수료                              |
 
----
-
-## 🛠️ **Skills**
-
-### 💻 **Languages & Frameworks**
-- **Java**: Spring Framework, JSP, JDBC  
-- **HTML/CSS/JavaScript**  
-- **SQL**: MySQL, Oracle  
-
-### 🎨 **Design Tools**
-- Adobe Photoshop, Illustrator  
-- 3DMax, SketchUp
-
-### 🧰 **Development Tools**
-- Git/GitHub  
-- SVN, Jenkins  
-- IntelliJ IDEA, Eclipse  
 
 ---
 
@@ -117,14 +100,6 @@
 - **한밭대학교 컴퓨터공학과** (편입, 현재 재학 중)
 - **응용 S/W 개발자 양성과정** (수료, 한국스마트정보교육원)  
 - **전주기전대학 산업디자인과** (졸업)  
-
----
-
-## 📜 **Certifications**
-
-- 정보처리기사 (2019.11)  
-- 컴퓨터그래픽스운용기능사 (2018.12)  
-- 웹디자인기능사 (2017.06)  
 
 ---
 
