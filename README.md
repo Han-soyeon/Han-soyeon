@@ -40,37 +40,7 @@
 ### 🧰 **Development Tools**
 - Git/GitHub  
 - SVN, Jenkins  
-- IntelliJ IDEA, Eclipse  
-
----
-
-## 📂 **Projects**
-
-### 🔹 **캡스톤 디자인 프로젝트**
-- **주제**: ABS  
-- **기여**: Project Manager
-- **기술 스택**: Java, MySQL  
-
-### 🔹 **PLM 솔루션 구축 (리치앤타임)**
-- **주요 역할**: 
-  - ENOVIA PLM 시스템 설계 및 구축  
-  - 사용자 교육 및 문서화  
-  - 시스템 안정화 유지 보수  
-- **기술 스택**: Java, Oracle, HTML, CSS, jQuery, JSP  
-- **협업 툴**: SVN, Jenkins  
-
-### 🔹 **자사 홈페이지 구축**
-- **목표**: 회사의 브랜드 이미지를 강화하기 위한 홈페이지 개발  
-- **기여**: UI 디자인, 프론트엔드 및 백엔드 통합 구현  
-- **기술 스택**: HTML, CSS, JavaScript  
-
----
-
-## 🎓 **Education**
-
-- **한밭대학교 컴퓨터공학과** (편입, 현재 재학 중)
-- **응용 S/W 개발자 양성과정** (수료, 한국스마트정보교육원)  
-- **전주기전대학 산업디자인과** (졸업)  
+- IntelliJ IDEA, Eclipse   
 
 ---
 
