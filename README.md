@@ -34,7 +34,7 @@
 - **SQL**: MySQL, Oracle  
 
 ### 🎨 **Design Tools**
-- Adobe Photoshop, Illustrator  
+- Figma, Adobe Photoshop, Illustrator  
 - 3DMax, SketchUp
 
 ### 🧰 **Development Tools**
